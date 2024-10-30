@@ -4,11 +4,18 @@
 
 ###
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!%2C+me+chamo+Iago+" alt="Typing SVG" /></a>
+
 <h2 align="left">👤  Sobre mim</h2>
 
 ###
 
-<p align="left">Olá! Me chamo Iago e atualmente sou estudante de Front-End</p>
+<ul>
+  <li><p align="left">🧑🏻‍💻 Estudante de desenvolvimento front-end</p></li>
+  <li><p align="left">💻 Sou apaixonado por tecnologia e programação</p></li>
+  <li><p align="left">🔍 Estou sempre em busca de novos conhecimentos e habilidades</p></li>
+  <li><p align="left">🚀 Focado em aprimorar minhas habilidades</p></li>
+</ul>
 
 ###
 
