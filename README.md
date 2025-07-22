@@ -11,7 +11,7 @@
 ###
 
 <ul>
-  <li><p align="left">🧑🏻‍💻 Estudante de desenvolvimento front-end</p></li>
+  <li><p align="left">🧑🏻‍💻 Técnico em Desenvolvimento de Sistemas</p></li>
   <li><p align="left">💻 Sou apaixonado por tecnologia e programação</p></li>
   <li><p align="left">🔍 Estou sempre em busca de novos conhecimentos e habilidades</p></li>
   <li><p align="left">🚀 Focado em aprimorar minhas habilidades</p></li>
